@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * *_strncat - concatenates 2 strings
 * @destination: the target string
